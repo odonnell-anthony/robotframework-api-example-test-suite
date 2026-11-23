@@ -2,7 +2,7 @@ attrs==19.1.0
 certifi==2022.12.7
 chardet==3.0.4
 decorator==4.4.0
-idna==2.8
+idna==3.15
 jsonpath-rw==1.4.0
 jsonpath-rw-ext==1.2.2
 jsonschema==3.0.2
